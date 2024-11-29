@@ -1,9 +1,9 @@
 # grass-bot Grass Bot Auto Mining (MULTI AKUN)
-Donate and Support : 0xde260429ef7680c7a43e855b5fcf619948f34e2a
+Donate and Support : 0xaC8cF51D586DCC23F2f34b10cf3A528d6C67Db00
 
 ## Create Account Jika Belum Punya
 
-- Create Account : https://s.id/grassairdrop
+- Create Account : [https://s.id/grassairdrop](https://app.getgrass.io/register/?referralCode=ErLKNhTYkSIiVe3)
 - Masukin Email and Password
 - Verifikasi Email dan Submit SOL Address
 - Done
